@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TextTransform/static/css/main.c7ca8864.chunk.css",
+    "main.js": "/TextTransform/static/js/main.d79c1700.chunk.js",
+    "main.js.map": "/TextTransform/static/js/main.d79c1700.chunk.js.map",
+    "runtime-main.js": "/TextTransform/static/js/runtime-main.816a1d84.js",
+    "runtime-main.js.map": "/TextTransform/static/js/runtime-main.816a1d84.js.map",
+    "static/js/2.a63bd201.chunk.js": "/TextTransform/static/js/2.a63bd201.chunk.js",
+    "static/js/2.a63bd201.chunk.js.map": "/TextTransform/static/js/2.a63bd201.chunk.js.map",
+    "static/js/3.e1516795.chunk.js": "/TextTransform/static/js/3.e1516795.chunk.js",
+    "static/js/3.e1516795.chunk.js.map": "/TextTransform/static/js/3.e1516795.chunk.js.map",
+    "index.html": "/TextTransform/index.html",
+    "static/css/main.c7ca8864.chunk.css.map": "/TextTransform/static/css/main.c7ca8864.chunk.css.map",
+    "static/js/2.a63bd201.chunk.js.LICENSE.txt": "/TextTransform/static/js/2.a63bd201.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.816a1d84.js",
+    "static/js/2.a63bd201.chunk.js",
+    "static/css/main.c7ca8864.chunk.css",
+    "static/js/main.d79c1700.chunk.js"
+  ]
+}
